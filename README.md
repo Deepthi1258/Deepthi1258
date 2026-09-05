@@ -25,70 +25,8 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📌 All Repositories
-
-<p align="center">
-  <a href="https://github.com/Deepthi1258/FUTURE_DS_01">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepthi1258&repo=FUTURE_DS_01&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/Deepthi1258/Exploratory-data-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepthi1258&repo=Exploratory-data-analysis&theme=default&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Deepthi1258/Tech_sprint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepthi1258&repo=Tech_sprint&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/Deepthi1258/python1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepthi1258&repo=python1&theme=default&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Deepthi1258/Guess-the-number">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepthi1258&repo=Guess-the-number&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/Deepthi1258/Simple-Calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepthi1258&repo=Simple-Calculator&theme=default&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Deepthi1258/Computer-Vision-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepthi1258&repo=Computer-Vision-Projects&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/Deepthi1258/AI-Text-Analyzer-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepthi1258&repo=AI-Text-Analyzer-Python&theme=default&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Deepthi1258/student-advanced-data-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepthi1258&repo=student-advanced-data-analysis&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/Deepthi1258/student-data-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepthi1258&repo=student-data-analysis&theme=default&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Deepthi1258/marks-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepthi1258&repo=marks-analyzer&theme=default&hide_border=true" />
-  </a>
-  <a href="https://github.com/Deepthi1258/movie-review-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepthi1258&repo=movie-review-system&theme=default&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Deepthi1258?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
